@@ -56,7 +56,6 @@ PROSA_CODE/
 ├── 🎨 resources/
 │   ├── 🔹 icons/
 │   └── 🖼️ images/
-│       └── BannerOficial.png
 ├── 🗄️ database/               
 │   ├── 📐 DER/
 │   ├── 🧩 DL/
@@ -75,16 +74,6 @@ PROSA_CODE/
     ├── 📚 tutorials/
     └── 🔗 references/
 ```
-
----
-
-
-
-## 📸 Capturas de Tela
-
-| Tela de Login | Seleção de Aplicações |
-| :---: | :---: |
-| ![Tela de Login](docs/ui-ux/mockups/login-preview.png) | ![Seleção de Apps](docs/ui-ux/mockups/selection-preview.png) |
 
 ---
 
