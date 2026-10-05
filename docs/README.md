@@ -1,15 +1,15 @@
 # 📚 Documentação do Projeto — `/docs`
 
 > **Startup:** Prosa Code  
-> **Projeto:** Sistema de Gestão para Sebos e Livrarias[cite: 1]  
-> **Disciplina:** Programação Orientada a Objetos (POO) — IFCE[cite: 1]  
-> **Docente:** Prof. Roger Moura Sarmento[cite: 1]  
+> **Projeto:** Sistema de Gestão para Sebos e Livraria
+> **Disciplina:** Programação Orientada a Objetos (POO) — IFCE 
+> **Docente:** Prof. Roger Moura Sarmento
 
 ---
 
 ## 📝 Descrição e Finalidade
 
-Diretório centralizador de toda a documentação técnica, registros de reuniões, modelagem conceitual, prototipagem de UI/UX e artefatos de apresentação da **Prosa Code**[cite: 2, 3]. 
+Diretório centralizador de toda a documentação técnica, registros de reuniões, modelagem conceitual, prototipagem de UI/UX e artefatos de apresentação da **Prosa Code**. 
 
 Aqui estão armazenados os artefatos que guiam o desenvolvimento visual e estrutural da aplicação, incluindo a identidade em *pixel art* botânico/café, os registros formais de atas da equipe, os diagramas UML e os materiais de suporte às apresentações com o orientador.
 
