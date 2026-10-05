@@ -37,10 +37,10 @@ A aplicação resolve os desafios de catalogação de acervos usados, precifica�
 | Categoria | Tecnologia | Descrição |
 | :--- | :--- | :--- |
 | **Linguagem** | Java 17+ | Linguagem principal orientada a objetos |
-| **Interface Gráfica** | Java Swing / JavaFX | Construção das telas e componentes visuais personalizados |
+| **Interface Gráfica** | JavaFX | Construção das telas e componentes visuais personalizados |
 | **Banco de Dados** | MySQL | Armazenamento relacional de acervos, usuários e vendas |
 | **Persistência** | JDBC | Conexão e execução de operações SQL nativas |
-| **Modelagem & Design** | MySQL Workbench / Pixel Art UI | Modelagem relacional e criação da identidade visual |
+| **Modelagem & Design** | MySQL / Pixel Art UI | Modelagem relacional e criação da identidade visual |
 | **Controle de Versão** | Git / GitHub | Gestão do código-fonte e documentação do repositório |
 
 ---
@@ -92,11 +92,11 @@ PROSA_CODE/
 
 | Membro | GitHub | Função / Atribuições |
 | :--- | :--- | :--- |
-| **Agatha** | [@agatha](https://github.com/agatha) | Design, Front-end e Gestão do GitHub |
-| **Felipe Chen** | [@felipechen](https://github.com/felipechen) | Desenvolvimento Back-end |
-| **Leandro** | [@leandro](https://github.com/leandro) | Desenvolvimento Back-end |
-| **Rayssa** | [@rayssa](https://github.com/rayssa) | Organização, Apoio ao Front-end e GitHub |
-| **Eduardo** | [@eduardo](https://github.com/eduardo) | Desenvolvimento Front-end |
+| **Agatha** | [@agatha](https://github.com/Batmilly) | Design, Front-end e Gestão do GitHub |
+| **Felipe Chen** | [@felipechen](https://github.com/felipechen14-droid) | Desenvolvimento Back-end |
+| **Leandro** | [@leandro](https://github.com/le4ndror) | Desenvolvimento Back-end |
+| **Rayssa** | [@rayssa](https://github.com/rayssa-py) | Organização, Apoio ao Front-end e GitHub |
+| **Eduardo** | [@eduardo](https://github.com/EduSousaAPontes) | Desenvolvimento Front-end |
 
 ---
 
